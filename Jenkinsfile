@@ -46,4 +46,3 @@ stage('Build and push Docker Image') {
 	deleteDir()
   }
  }
-}
